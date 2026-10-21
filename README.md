@@ -16,7 +16,7 @@ Corresponding author: Prof. N. Pržulj, natasa.przulj@mbzuai.ac.ae
 
 - [Dataset: biological hypernetworks](https://github.com/przulj-lab/hyper-graphlets/releases/download/v1.0/hypernetworks.zip)
 - [Result: functional predictions](https://github.com/przulj-lab/hyper-graphlets/releases/download/v1.0/all_predictions.zip)
-- [Hypergraphlets counter](https://github.com/przulj-lab/hyper-graphlets/releases/download/v1.0/hypergraphlets_counter.zip)
+- [Hypergraphlets counter](https://github.com/przulj-lab/hyper-graphlets/releases/download/v1.0/hypergraphlet_counter.zip)
 
 ## Hypergraphlets counter
 
