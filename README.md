@@ -8,7 +8,7 @@
 
 Corresponding author: Prof. N. Pržulj, natasa.przulj@mbzuai.ac.ae
 
-<img src="images/hypergraphlets.png" width="400">
+<img src="images/hypergraph.png" width="400">
 
 </div>
 
